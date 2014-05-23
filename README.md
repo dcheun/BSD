@@ -1,0 +1,4 @@
+BSD
+===
+
+BSD scripts
